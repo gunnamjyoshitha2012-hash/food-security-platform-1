@@ -1,0 +1,24 @@
+{
+  "donations": [
+    {
+      "id": "abcd",
+      "food": "rice",
+      "quantity": "5 plates",
+      "location": "hyderabad"
+    }
+  ],
+  "requests": [
+    {
+      "id": "a30f",
+      "food": "rice ",
+      "quantity": "5 plates",
+      "location": "vijayawada"
+    },
+    {
+      "id": "08ac",
+      "food": "noodles",
+      "quantity": "4 plates",
+      "location": "tanuku"
+    }
+  ]
+}
